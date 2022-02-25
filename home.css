@@ -1,0 +1,10 @@
+*{
+	
+	overflow-y: hidden;
+}
+#cal{
+	margin-left: 35%;
+	margin-top: 8%;
+	background-color: #004d80;
+	border-radius: 25px;
+}

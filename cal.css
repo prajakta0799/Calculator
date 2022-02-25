@@ -1,0 +1,39 @@
+/*#all{
+margin-left: 20%;
+margin-top: 10%;
+}
+.btn{
+	height: 50px;
+	width: 50px;
+	margin-top: 20px;
+	margin-left: 20px;
+}*/
+*{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    margin: 5px;
+}
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+input{
+    border-radius: 21px;
+    border: 3px solid #244624;
+    font-size:34px;
+    height: 70px;
+    width: 350px;
+}
+
+button{
+    box-shadow: -3px 3px orange,-2px 2px ,-1px 1px orange;-
+    margin-top: 80px;
+    border-radius: 10px;
+    font-size: 20px;
+    background: #b3d9ff;
+    width: 60px;
+    height: 50px;
+    margin: 10px;
+}
+
